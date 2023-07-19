@@ -60,7 +60,7 @@ div {
   <tbody>
     <tr>
       <td width="25%" style="text-align: center"><a href="https://pgblitz.com/forums"><img src="https://camo.githubusercontent.com/6a9261977df6c815e4c1c0be4131cc243e7f9496/68747470733a2f2f706c657867756964652e636f6d2f77696b69706963732f6c6f676f2d666f72756d732e706e67" alt="" width="160" height="25"/></a></td>
-      <td width="25%" style="text-align: center"><a href="https://github.com/PGBlitz/PGBlitz.com/wiki"><img src="https://camo.githubusercontent.com/b654870b2693e9f82158f87fda567a2d9e4828f8/68747470733a2f2f706c657867756964652e636f6d2f77696b69706963732f6c6f676f2d77696b692e706e67" alt="" width="160" height="25"/></a></td>
+      <td width="25%" style="text-align: center"><a href="https://github.com/titooo7/PGBlitz.com/wiki"><img src="https://camo.githubusercontent.com/b654870b2693e9f82158f87fda567a2d9e4828f8/68747470733a2f2f706c657867756964652e636f6d2f77696b69706963732f6c6f676f2d77696b692e706e67" alt="" width="160" height="25"/></a></td>
       <td width="25%" style="text-align: center"><a href="https://pgblitz.com/account/upgrades"><img src="https://camo.githubusercontent.com/fc76dd93918b3e530376731d3bbd86627b339a69/68747470733a2f2f706c657867756964652e636f6d2f77696b69706963732f6c6f676f2d646f6e6174652e706e67" alt="" width="160" height="25"/></a></td>
     </tr>
   </tbody>
@@ -303,7 +303,7 @@ echo "<pre>$output</pre>";
               <td height="206"><span style="color: #FFFFFF; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, sans-serif; font-weight: bolder; font-size: large; text-align: left;">USEFUL NOTES</span><br>
                 <ul>
                   <li><a href="https://www.youtube.com/channel/UCe77pMIK5kj6teb1NzCi9pw">PG YouTube Channel</a></li>
-                  <li><a href="https://github.com/PGBlitz/PGBlitz.com/wiki/Common-Issues">Wiki - Common Issues</a></li>
+                  <li><a href="https://github.com/titooo7/PGBlitz.com/wiki/Common-Issues">Wiki - Common Issues</a></li>
                 </ul>
                 <p><span style="color: #FFFFFF; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, sans-serif; font-weight: bolder; font-size: large; text-align: left;">TIPS</span></p>
                 <ol>
